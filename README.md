@@ -1,9 +1,7 @@
 {
     
     "name": "Amanda Rällby", 
-    
     "likes": ["coding", "reading", "series", "padel"], 
-    
     "loves": "dogs", 
     
     "myGitHubAccount": {
